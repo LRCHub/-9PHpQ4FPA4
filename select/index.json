@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "本音",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-02-11T18:38:27.466539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "本音",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/01_本音_sumika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "本音",
+      "artist": "Mega Shinnosuke",
+      "has_synced": false,
+      "path": "select/02_本音_Mega_Shinnosuke.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "track01「本音」",
+      "artist": "ヤチン_ノタ氏",
+      "has_synced": true,
+      "path": "select/03_track01「本音」_ヤチン_ノタ氏.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本音",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_本音_ヤングスキニー.txt"
+    }
+  ]
+}
